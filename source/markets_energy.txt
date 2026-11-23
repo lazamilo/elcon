@@ -1,0 +1,81 @@
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Home
+About us
+Services
+Complete electrical package
+Electrical design
+Software development
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Contact
+Energy
+Home
+›
+Markets
+›
+Energy
+What ELCON Does
+ELCON provides high-reliability automation systems for the energy and oil & gas sectors, focusing on Integrated Control and Safety Systems (ICSS). We design and program redundant, fault-tolerant systems that meet the strict demands of critical infrastructure. Our approach ensures minimal production interruptions—even during reconstructions and maintenance—through rigorous multi-phase testing.
+Electrical Design
+Begins with basic design documents approved by the client
+Detailed electrical plans are developed and reviewed before cabinet production
+A sample cabinet is built and inspected before full production
+FAT procedures validate cabinet functionality before site deployment
+SAT testing on-site verifies all installations and connections
+Programming
+Starts with basic design specifications, followed by detailed design documents
+Client-approved specifications guide software development
+FAT testing includes simulations using SIMIT digital twin technology
+SAT testing on-site ensures full compliance with operational and safety requirements
+Pain Points
+Extensive use of motors, valves, sensors, and control loops
+High reliability demands requiring full system redundancy
+Complex testing protocols (FAT, SAT, and communication validation)
+Critical need for diagnostics and visualization of operational conditions
+Our Solution
+Redundant architecture across servers, PLCs, clients, and networks
+Siemens Safety Matrix and interlock blocks for safety logic and condition visualization
+Digital twin simulations with SIMIT for validating complex functions
+Multi-phase FAT and SAT testing ensures system integrity and uptime
+CASE STUDY
+TurkStream
+Southstream Transport B.V. manages and maintains the TurkStream pipeline, which extends beneath the Black Sea from Anapa, Russia, to the village of Kıyıköy in Turkey, continuing onward to Europe. Following the completion of a compressor station in Russia, construction began on a reception terminal in Turkey designed to heat, analyze, and reduce the pressure of incoming gas before distribution to customers throughout Turkey and Europe. The client required a highly reliable and secure system that could be monitored remotely from their headquarters in the Netherlands.
+The project centered on implementing an Integrated Control and Safety System (ICSS) for the reception terminal. This system encompasses Process Control System (PCS), Safeguarding System (SGS), and Fire and Gas System (FGS). ELCON was tasked with electrical design for PCS, SGS, and telecommunications, which included IT infrastructure, telephony, security, and Public Address General Alarm (PAGA) systems. Additionally, comprehensive documentation, programming for PCS and SGS, SCADA development, and full integration—including the control room, its backup, the compressor station, and the reception terminal—were delivered.
+Using Siemens PCS 7 software and an Oil & Gas–specific Siemens library, the PCS and SGS programs were developed. To meet demanding reliability requirements, Siemens S7-400H redundant controllers were deployed. The SCADA system was developed on the WinCC Open Architecture platform, with IEC-104 protocol ensuring seamless communication between SCADA and controllers. Integration of various processing units within the reception terminal was also managed, coordinating with multiple global suppliers to ensure flawless interoperability.
+Factory Acceptance Testing (FAT) was conducted using Siemens SIMIT simulation, allowing for early detection of issues and operator training. Site Acceptance Testing (SAT) followed, and ELCON provided on-site assistance during commissioning. The result is a state-of-the-art reception terminal with highly reliable, secure, and scalable control systems. The infrastructure supports minimized downtime, readily available spare parts, and is prepared for future expansion of gas distribution capacity, ensuring smooth and safe operations for years to come.
+REFERENCES
+CUSTOMERYEARPROJECT NAMEGOODS/SERVICES PROVIDEDENERGETIKA LJUBLJANA, UNIT: TE-TOL, SLOVENIA2021Automation of air compressor station in powerplant TE-TOLElectrical Detail Design and
+SoftwareENERGETIKA LJUBLJANA, UNIT: TE-TOL, SLOVENIA2020Automation of process of supervision and control of level of sealing steam from turbine 3 in KTP3Electrical Detail Design and
+SoftwareENERGETIKA LJUBLJANA, UNIT: TE-TOL, SLOVENIA2019Automation of central cooling system of the thermal powerplantElectrical Detail Design and
+SoftwareSOUTH STREAM / PETROFAC / COMITA2018,
+2019,
+2020Automation of receiving station for project Turkstream in Kiyikoy TurkeyElectrical basic and detail design
+Software for process and safety part
+Modification of telecommunication cabinetsENERGY PLANT SICET LTD. OSPITALE DIE CADORE, ITALY2011-2022Automation of power plant. Fuel: wood chipsSoftware and optimization
+Book a Free Call
+Let’s discuss how ELCON can enhance your energy infrastructure. Book a free strategy session with our team.
+Quick links
+About us
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Services
+Complete electrical package
+Electrical design
+Software development
+Contact
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Contact
+How to reach us
+© ELCON d.o.o. All rights reserved 2026
+Cookies
+Authors

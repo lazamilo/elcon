@@ -1,0 +1,60 @@
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Home
+About us
+Services
+Complete electrical package
+Electrical design
+Software development
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Contact
+Complete electrical package
+Home
+›
+Services
+›
+Complete electrical package
+Elelctrical design
+Software development
+ELCON also supplies a complete electrical package. This includes:
+Drawing up electrical plans
+Manufacture of electrical cabinets
+Electrical installation
+Program development
+Testing (FAT)
+Commissioning and SAT
+Documentation (As Built)
+PROCEDURE
+Phase 1a: Electrical design and supply of materials
+Our engineers prepare electrical designs based on information from mechanical designers. If necessary, these are sent to the customer for preview and approval. On the basis of these projects, our purchasing department orders the necessary materials. Often, due to short deadlines, materials are ordered before the electrical plans are finalised.
+Phase 1b: Developing the program
+A functional specification is drawn up before the program is developed. It shall be prepared in cooperation with the client. This is the basis for starting the programming. The necessary documents for the programmer are also the electrical project and the P/I diagrams. On the basis of all this information, the programmer prepares the program. If necessary, a digital twin shall also be prepared to test the program in the FAT test.
+Phase 2: Cabinet manufacture and testing
+The material is sent to one of our partners who assembles the electrical cabinets. At their premises, our engineers configure the equipment in the cabinets (e.g. network settings and drive settings). The cabinets are then tested.
+Phase 3: Installation of cabinets on site, electrical installation and testing
+The cabinets are then transported to the facility. There, our partner carries out the electrical installations based on our plans. This includes installing the cable racks, making the necessary penetrations, laying and connecting the cables. Once the installation is complete, the programmers configure the equipment. The programmer then carries out the tests (SATs) together with the electrical installers. In doing so, he verifies the correct electrical connection as well as the proper functioning of the program. During the commissioning phase, the programme parameters that could not be set during the programming phase are also set (especially the parameters of the controllers)
+Quick links
+About us
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Services
+Complete electrical package
+Electrical design
+Software development
+Contact
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Contact
+How to reach us
+© ELCON d.o.o. All rights reserved 2026
+Cookies
+Authors

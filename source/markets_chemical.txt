@@ -1,0 +1,82 @@
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Home
+About us
+Services
+Complete electrical package
+Electrical design
+Software development
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Contact
+Chemical industry
+Home
+›
+Markets
+›
+Chemical
+What ELCON Does
+ELCON delivers comprehensive automation solutions for the chemical industry, combining electrical engineering and advanced software development. Our team of electrical designers and DCS programmers specializes in managing complex chemical processes with precision.
+We ensure that production runs with minimal interruptions—even during reconstructions and maintenance shutdowns—by thoroughly testing all modifications across multiple phases.
+Electrical Design
+Designs are based on client requirements, typically derived from material lists, signal lists, and P&ID diagrams.
+Sample loops are created and reviewed by the client before the full electrical plan is developed.
+After client feedback, the final “for manufacturing” version is used to build electrical cabinets, which undergo FAT (Factory Acceptance Testing) in our workshop.
+On-site, cabinets are wired and retested to ensure flawless integration.
+Programming
+Based on functional specifications provided by the client, ELCON develops custom control software.
+Programs are tested during FAT, often using digital twins to simulate real-world conditions.
+On-site, IO signal tests verify wiring accuracy, while functional tests confirm system behavior.
+Special attention is given to safety functions to ensure compliance and reliability.
+Pain Points
+Numerous motors, valves, sensors, and control loops
+Complex batch procedures requiring strict condition checks
+High dependency on diagnostics and visualization for safe operation
+Downtime during maintenance or upgrades must be minimized
+Our Solution
+Interlock blocks and Siemens SFC tools for clear visualization of process conditions
+Hardware diagnostics for faster fault resolution and reduced downtime
+Thorough multi-phase testing (FAT and SAT) to ensure reliability during reconstructions
+Digital twin simulations for validating complex logic before deployment
+CASE STUDY
+Cinkarna Celje – Surface Treatment 2
+The core business of Cinkarna Celje, d. d. is the production and marketing of titanium dioxide, complemented by a wide range of other products such as powder coatings, masterbatches, zinc wires and alloys, agricultural products, chemical process equipment, and sulfuric acid.
+The project involved the reconstruction of control and motor cabinets at the PD2 plant, which had reached the end of its service life, and for which spare parts were no longer available. Over its 30 years of operation, numerous undocumented modifications had been made, creating additional challenges for maintenance. The existing control and monitoring system, based on Siemens SIMATIC S5 controllers and Factory Link SCADA, was replaced with a modern SIEMENS PCS7 DCS system. The concept of peripheral connectivity was also redesigned using PROFINET technology.
+The scope of the project included the development of new electrical plans, supply of necessary reconstruction equipment, programming of three processes across two controllers, creation of a plant simulation, FAT (Factory Acceptance Test), and commissioning. The electrical documentation was delivered in a clear and digital format, enabling fast fault diagnosis and easy modifications in case of technological changes. The control and motor cabinets were assembled and tested in the workshop. During commissioning, the old cabinets were removed and replaced with new ones.
+The controllers were programmed in the PCS7 environment using the SIEMENS APL library. For monitoring and operation, an OS server and two operator clients were added, configured in the WinCC environment. To minimize plant downtime, a simulation was created in the SIMIT environment, used for detecting potential programming errors and training operators on the new SCADA system. Upon completion of commissioning, all relevant project documentation was prepared.
+With the renovation of the PD2 plant, the client received a state-of-the-art DCS system. Thanks to the new equipment, the plant experiences fewer downtimes, and the system is maintainable with readily available spare parts. The use of additional frequency converters has also improved energy efficiency. The system is now ready for future production expansions.
+REFERENCES
+CUSTOMERYEARPROJECT NAMEGOODS/SERVICES PROVIDEDCINKARNA CELJE2021TiO2 Plant – Gel squeezing and flue gas cleaningSoftware upgradeCINKARNA CELJE2020TiO2 Plant – Splitting and dissolution of ores and purification of splitting gasesSoftware upgradeCINKARNA CELJE2018-2021TiO2 Plant – Surface finishing 2Elecrical detail design Software development,
+Control and power cabinetsCINKARNA CELJE2018TiO2 Plant – Grinding calcinateSoftware developmentCINKARNA CELJE2017TiO2 Plant – HydrolysisSoftware upgradeCINKARNA CELJE2016TiO2 Plant – Preparation of raw materialsSoftware upgradeCINKARNA CELJE2010TiO2 Plant – Ultrafine TiO2Software developmentCHRISTOF GROUP / PMS2007, 2008Bio diesel plant in Valtertores – SpainSoftware developmentCHRISTOF GROUP / PMS2007, 2008Bio diesel plant in Gaishorn – AustriaSoftware developmentCHRISTOF GROUP / PMS2007Bio diesel plant in Eemshaven – NetherlandSoftware developmentCINKARNA CELJE2006TiO2 Plant – C-Gips plantSoftware developmentJUB Slovenia2006Plant for dispersion paints – Batch for dissolvers D5 and D6Software developmentJUB Slovenia2006Plant for dispersion paints –– Filling of D5 and D6 from Siloses S8 and S10Elecrical detail design
+Software developmentJUB Slovenia2006Plant for dispersion paints –– Equalization tanksElecrical detail design
+Software developmentCINKARNA CELJE2005TiO2 Plant – Preparation of sodium titanateElectrical designJUB Slovenia2005Plant for dispersion paints – Dissolver D4Elecrical detail design
+Software developmentCINKARNA CELJE2004TiO2 Plant – Batch chemical treatmentElectrical designCINKARNA CELJE2004TiO2 Plant – Micronization and compressor managementSoftware developmentCINKARNA CELJE2004TiO2 Plant – Acid washSoftware developmentJUB Slovenia2004Plant for dispersion paints – Line G2Elecrical detail design
+Software developmentCINKARNA CELJE2003TiO2 Plant – Drying and micronizationElectrical designCINKARNA CELJE2003TiO2 Plant – Alkaline washed na-titanateSoftware developmentCINKARNA CELJE2003TiO2 Plant – Hydrokal solutions and preparation of 4 sulfate solutionsSoftware developmentCINKARNA CELJE2003TiO2 Plant – Filtration of the black solutionElectrical designJUB Slovenia2003Plant for dispersion paints – Preparation of mavibond on dispersers D5 and D6Elecrical detail designJUB Slovenia2003Plant for dispersion paints – Filling silo E5 from dispersers D5 and D6Elecrical detail design
+Software developmentJUB Slovenia2003Plant for dispersion paints – integratin of filling line P14 to the productionElecrical detail design
+Software developmentCINKARNA CELJE2002Neutralization plant – PCS7Software developmentCINKARNA CELJE2002TiO2 Plant – Gel washElectrical designCINKARNA CELJE2002TiO2 Plant – Gel pigmentationElectrical designCINKARNA CELJE2001Compressor station – PCS7Software development
+Book a Free Call
+Let’s explore how ELCON can optimize your chemical production. Book a free consultation today
+Quick links
+About us
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Services
+Complete electrical package
+Electrical design
+Software development
+Contact
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Contact
+How to reach us
+© ELCON d.o.o. All rights reserved 2026
+Cookies
+Authors

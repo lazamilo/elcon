@@ -1,0 +1,316 @@
+{
+ "chemical": [
+  [
+   "CINKARNA CELJE",
+   "2021",
+   "TiO2 Plant – Gel squeezing and flue gas cleaning",
+   "Software upgrade"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2020",
+   "TiO2 Plant – Splitting and dissolution of ores and purification of splitting gases",
+   "Software upgrade"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2018-2021",
+   "TiO2 Plant – Surface finishing 2",
+   "Elecrical detail design Software development, · Control and power cabinets"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2018",
+   "TiO2 Plant – Grinding calcinate",
+   "Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2017",
+   "TiO2 Plant – Hydrolysis",
+   "Software upgrade"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2016",
+   "TiO2 Plant – Preparation of raw materials",
+   "Software upgrade"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2010",
+   "TiO2 Plant – Ultrafine TiO2",
+   "Software development"
+  ],
+  [
+   "CHRISTOF GROUP / PMS",
+   "2007, 2008",
+   "Bio diesel plant in Valtertores – Spain",
+   "Software development"
+  ],
+  [
+   "CHRISTOF GROUP / PMS",
+   "2007, 2008",
+   "Bio diesel plant in Gaishorn – Austria",
+   "Software development"
+  ],
+  [
+   "CHRISTOF GROUP / PMS",
+   "2007",
+   "Bio diesel plant in Eemshaven – Netherland",
+   "Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2006",
+   "TiO2 Plant – C-Gips plant",
+   "Software development"
+  ],
+  [
+   "JUB Slovenia",
+   "2006",
+   "Plant for dispersion paints – Batch for dissolvers D5 and D6",
+   "Software development"
+  ],
+  [
+   "JUB Slovenia",
+   "2006",
+   "Plant for dispersion paints –– Filling of D5 and D6 from Siloses S8 and S10",
+   "Elecrical detail design · Software development"
+  ],
+  [
+   "JUB Slovenia",
+   "2006",
+   "Plant for dispersion paints –– Equalization tanks",
+   "Elecrical detail design · Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2005",
+   "TiO2 Plant – Preparation of sodium titanate",
+   "Electrical design"
+  ],
+  [
+   "JUB Slovenia",
+   "2005",
+   "Plant for dispersion paints – Dissolver D4",
+   "Elecrical detail design · Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2004",
+   "TiO2 Plant – Batch chemical treatment",
+   "Electrical design"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2004",
+   "TiO2 Plant – Micronization and compressor management",
+   "Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2004",
+   "TiO2 Plant – Acid wash",
+   "Software development"
+  ],
+  [
+   "JUB Slovenia",
+   "2004",
+   "Plant for dispersion paints – Line G2",
+   "Elecrical detail design · Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2003",
+   "TiO2 Plant – Drying and micronization",
+   "Electrical design"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2003",
+   "TiO2 Plant – Alkaline washed na-titanate",
+   "Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2003",
+   "TiO2 Plant – Hydrokal solutions and preparation of 4 sulfate solutions",
+   "Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2003",
+   "TiO2 Plant – Filtration of the black solution",
+   "Electrical design"
+  ],
+  [
+   "JUB Slovenia",
+   "2003",
+   "Plant for dispersion paints – Preparation of mavibond on dispersers D5 and D6",
+   "Elecrical detail design"
+  ],
+  [
+   "JUB Slovenia",
+   "2003",
+   "Plant for dispersion paints – Filling silo E5 from dispersers D5 and D6",
+   "Elecrical detail design · Software development"
+  ],
+  [
+   "JUB Slovenia",
+   "2003",
+   "Plant for dispersion paints – integratin of filling line P14 to the production",
+   "Elecrical detail design · Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2002",
+   "Neutralization plant – PCS7",
+   "Software development"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2002",
+   "TiO2 Plant – Gel wash",
+   "Electrical design"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2002",
+   "TiO2 Plant – Gel pigmentation",
+   "Electrical design"
+  ],
+  [
+   "CINKARNA CELJE",
+   "2001",
+   "Compressor station – PCS7",
+   "Software development"
+  ]
+ ],
+ "energy": [
+  [
+   "ENERGETIKA LJUBLJANA, UNIT: TE-TOL, SLOVENIA",
+   "2021",
+   "Automation of air compressor station in powerplant TE-TOL",
+   "Electrical Detail Design and · Software"
+  ],
+  [
+   "ENERGETIKA LJUBLJANA, UNIT: TE-TOL, SLOVENIA",
+   "2020",
+   "Automation of process of supervision and control of level of sealing steam from turbine 3 in KTP3",
+   "Electrical Detail Design and · Software"
+  ],
+  [
+   "ENERGETIKA LJUBLJANA, UNIT: TE-TOL, SLOVENIA",
+   "2019",
+   "Automation of central cooling system of the thermal powerplant",
+   "Electrical Detail Design and · Software"
+  ],
+  [
+   "SOUTH STREAM / PETROFAC / COMITA",
+   "2018, · 2019, · 2020",
+   "Automation of receiving station for project Turkstream in Kiyikoy Turkey",
+   "Electrical basic and detail design · Software for process and safety part · Modification of telecommunication cabinets"
+  ],
+  [
+   "ENERGY PLANT SICET LTD. OSPITALE DIE CADORE, ITALY",
+   "2011-2022",
+   "Automation of power plant. Fuel: wood chips",
+   "Software and optimization"
+  ]
+ ],
+ "papermills": [
+  [
+   "Papermill Vevce (Brigl & Bergmeister)",
+   "2022",
+   "Super calander SK5: Targeted stop system (Zielhaltesysteme)",
+   "Elecrical detail design · Software development"
+  ],
+  [
+   "Papermill Vevce (Brigl & Bergmeister)",
+   "2021",
+   "Super calander SK6: Targeted stop system (Zielhaltesysteme)",
+   "Elecrical detail design · Software development"
+  ],
+  [
+   "Papermill Vevce (Brigl & Bergmeister)",
+   "2021",
+   "Super calander SK5: upgrade of the drive system – replacement of old drives for winder and unwinder Sinamics Simoreg 6RA70 with T400 cards Sinamics 6RA80 without technological card – tensioning control was implement in the PLC, the main drive was not changed (Simoreg 6RA70 without T400 card)",
+   "Elecrical detail design · Software development · Startup of drives"
+  ],
+  [
+   "MM Kolicevo (MM BOARD & PAPER)",
+   "2016 – 2022",
+   "KM2 – machine and stock preparation – Siemens DCS: PCS7",
+   "software development"
+  ],
+  [
+   "MM Kolicevo (MM BOARD & PAPER)",
+   "2016",
+   "KM3 – double drum winder – replacement of the drive for the clutch on the unwinder side (Rexroth servo motor + Siemens Sinamics frequency converter)",
+   "Elecrical detail design Software development · Startup of drives"
+  ],
+  [
+   "Papermill Vevce (Brigl & Bergmeister)",
+   "2016",
+   "Kleinewefers Super calander SK6: upgrade of the drive system (replacement of old AEG MINISEMI D 380/550+GO DC drives with Siemens Sinamics DCM drives). Main drive was not replaced completely. To optimise the price only the control part of the drive was changed (1Q thyristor stack was kept)",
+   "Elecrical detail design · Software development · Startup of drives"
+  ],
+  [
+   "MM Kolicevo (MM BOARD & PAPER)",
+   "2013 – 2021",
+   "Coating kitchen – 2 dispersers – Siemens DCS: PCS7 + Simatic Batch)",
+   "electrical design and software development"
+  ],
+  [
+   "MM Kolicevo (MM BOARD & PAPER)",
+   "2012 – 2023",
+   "KM3 – water treatment and auxiliaries – Siemens DCS: PCS 7 with pulp and paper library), Auxiliaries: dosing of chemical, fans.",
+   "software development"
+  ],
+  [
+   "MM Kolicevo (MM BOARD & PAPER)",
+   "2012",
+   "KM3 – power cabinets – cabinets for the motors: pumps, fans, hatches etc – Siemens SIMOCODE)",
+   "electrical design"
+  ],
+  [
+   "MM Kolicevo (MM BOARD & PAPER)",
+   "2003 – 2023",
+   "Wood grinding plant – Siemens DCS: PCS7",
+   "electrical design and software development · Startup of large medium voltage drives"
+  ],
+  [
+   "MM Kolicevo (MM BOARD & PAPER)",
+   "1996 – 2023",
+   "KM3 – stock preparation – Siemens S7-400 PLCs + Siemens WinCC SCADA system)",
+   "software development"
+  ]
+ ],
+ "refractory-and-cement": [
+  [
+   "RHI MAGNESTIA RADENTHEIN / TRIPS",
+   "2023",
+   "Automation (Reconstruction) of production of refractory products",
+   "Software development"
+  ],
+  [
+   "RHI MAGNESTIA RADENTHEIN / sIEMENS",
+   "2021, 2022, · 2023",
+   "Automation (Reconstruction) of production of refractory products",
+   "Software development"
+  ],
+  [
+   "Veitsch-Radex Gmbh / PMS",
+   "2021",
+   "Automation of Mining part",
+   "Software development"
+  ],
+  [
+   "SALONIT ANHOVO",
+   "2019, · 2020",
+   "Automation of Cement plant (Crusher and sand pile building device)",
+   "Elecrical detail design Software development · Startup of large medium voltage drives"
+  ]
+ ]
+}

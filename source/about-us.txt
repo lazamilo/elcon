@@ -1,0 +1,93 @@
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Home
+About us
+Services
+Complete electrical package
+Electrical design
+Software development
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Contact
+About us
+Home
+›
+About us
+30+ YEARS OF EXPERIENCE
+ELCON d.o.o. was established in 1990. We started as a system Integrator Company focusing on different fields of productions. From the very beginning we have been using control equipment from the world leader in industrial control system; SIEMENS.
+Our company is Certified Solution partner for PCS7, SIMATIC and WinCC system from SIEMENS. We are active in various fields of industry including Chemical, Oil and Gas, Pulp&Paper, Cement and Refractories.
+Our solutions range from design and engineering to programming of control and supervision system. We supply also complete electrical package.
+ELCON employs electrical designers and programmers. Smaller projects are carried out by our own engineers, while larger ones are subcontracted out and we take over the project management.
+Contact us
+Project procedure
+Requirements analysis
+Reviewing project input data; including technical meetings, P&I diagrams, functional expectations and client process requirements.
+Project documentation
+Preparation of basic and detailed design documentation, including functional descriptions, design specifications, and other technical documents.
+Electrical design and software development
+Complete electrical design and development of software logic, including PLC, HMI and SCADA programming according to approved specifications.
+Cabinet assembly
+Assembly of the electrical cabinet, installation of all components, wiring and labeling.
+Testing of cabinets and software
+Execution of FAT, testing of the electrical cabinet and control program using a digital twin.
+Installation and technical acceptance
+Installation of equipment, commissioning, SAT (Site Acceptance Test), operator training and final project handover.
+After-sales support and upgrades
+Post-delivery technical support, troubleshooting, maintenance services and implementation of future upgrades or system improvements.
+COMPANY’S FACES
+Bor Kosmač
+CEO
++386 1 724 00 56
++386 41 313 413
+bor.kosmac@elcon.si
+OUR TESTIMONIALS
+In the Vevče paper mill (Brigl & Bergmeister) we have a supercalander SK5 made by Bruderhaus (now Voith). The drives were controlled by Siemens Simoreg 6RA70. The rewinding functions were programmed in T400 cards. The latter were no longer available and the machine could not be maintained. At the same time, we had problems with excessive ejection due to paper residue on the unwinding tambour. ELCON replaced the drives with SIMAMICS DCM 6RA80. The rewind functions were programmed on a PCS7 system in CFC language. The target stop functionality was also programmed. This has reduced ejection, as target stopping ensures minimal paper residue on the unwind roller. When the drives were replaced, the control was made more optimal, so the calender now runs at full speed, whereas before this was not possible due to vibrations. This rebuild gave us confidence in ELCON’s knowledge of drives and we decided to rebuild other machines in cooperation with them.
+Aleš Zierer
+— Vevče Paper Mill
+The MM Količevo paper mill had a coating kitchen that was underproducing and the control system did not allow for the expansion of the dispersers. ELCON reprogrammed the system to a Siemens DCS system PCS7 + SIMATIC BATCH. At the same time, the system was supplemented with an additional disperser, which increased production. Now the system is up-to-date, the supplier ELCON is supporting us and we also make some changes to the system ourselves. We also have no problems with spare parts, which makes it easier to maintain the system. The new dispersers have increased production and the new DCS system makes it easier for operators to operate.
+Filip Kveder
+— MM Količevo
+At Cinkarna Celje we have a TiO2 surface finishing plant (PD2) that was equipped with old control equipment (Siemens simatic S5 and Factory link SCADA). The equipment was outdated and we could no longer obtain suitable spare parts for it. We therefore decided to rebuild the system. ELCON produced the electrical plans, the electrical cabinets, disconnected the old cabinets and connected the new ones, and created a new software application using Siemens PCS7. The new equipment reduced the number of congestions. As more frequency converters were used, energy efficiency was also improved. The production shutdown was carried out within the planned timeframe, quite quickly for such a volume. This was the first project where we used PROFINET (until now PROFIBUS). After the upgrade, we have received proof and confirmation of the reliability of this PROFINET communication protocol, and we will introduce it wherever possible in the future. The new control and monitoring system is modern and ready for further expansion.
+Dušan Mestnišek
+— Cinkana Celje
+11
+engineers
+23
+countries
+1388
+projects
+COMPANY INFORMATION
+Company name ELCON podjetje za avtomatizacijo, razvoj in inženiring d.o.o.
+Short company name ELCON d.o.o.
+Company headquarters Ljubljanska cesta 80, 1230 Domžale, Slovenia
+Year of establishment 1990
+Number of employees 12
+Company registration number 5405556
+Identification number SI28367014
+Taxpayer YES
+Business account SI56 0400 0027 6589 621
+SWIFT code KBMASI2X
+Quick links
+About us
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Services
+Complete electrical package
+Electrical design
+Software development
+Contact
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Contact
+How to reach us
+© ELCON d.o.o. All rights reserved 2026
+Cookies
+Authors

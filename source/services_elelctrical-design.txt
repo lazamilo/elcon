@@ -1,0 +1,94 @@
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Home
+About us
+Services
+Complete electrical package
+Electrical design
+Software development
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Contact
+Electrical design
+Home
+›
+Services
+›
+Electrical design
+Complete electrical package
+Elelctrical design
+Software development
+ELCON draws up electrical plans for its clients. Typically, these are based on machine drawings. The plans are produced in ePlan or WSCAD format. The customer receives the plans in paper and electronic format.
+We also produce plans for conversions and reconstructions. In this case, we often use old plans that are not yet in electronic format. These are then either erased or simply supplemented with additional pages.
+We produce plans for different areas, such as:
+Power distribution cabinets
+Motor cabinets
+Instrumentation control cabinets
+Junction boxes
+Pneumatic cabinets
+Telecommunications cabinets
+Computer cabinets
+Security and access control equipment
+Control room equipment
+CCTV
+PAGA
+Power distribution cabinets
+These cabinets contain the main switch, taps and energy analysers. The taps can be connected to the main switch via wired or bus connections (e.g. Rittal RiLine or EATON SASY). The branch circuits consist of fuses, circuit breakers or protective switches. Energy analysers can be installed at the inlet as well as at individual branch circuits. They are also fitted with appropriate measuring transformers (current and voltage). Siemens Sentron is usually used for the design. These can also be connected to the PLC via data connections (PROFINET, MODBUS TCPIP, etc.).
+Motor cabinets
+They are designed to power electric motors. They contain:
+motor protections
+Contactors
+Smart relays (SIMOCODE)
+Soft starters
+Frequency converters
+In the dimensioning phase, we determine:
+Cable type and cross section
+Protective elements
+Contactors
+Type and power of soft starters
+Type and power of frequency converters
+Most often we design equipment from SIEMENS and EATON for motor protection and contactors and equipment from SIEMENS, ABB, DANFOSS for frequency converters. For soft commissioning we usually design equipment from SIEMENS and SOLCON (Israeli manufacturer).
+When determining the appropriate equipment, we take into account the motor power determined by the mechanical designer, the intermittency and the cable length.
+In cases where more safety is required, this is achieved by using safety PLC IO modules and the appropriate number of contactors. In the case where increased safety is required for drives with frequency inverters, we take advantage of the safety functions already built in. For example, Siemens frequency inverters allow tripping in safety category SIL2 and can be connected to a safety controller via a PROFINET network that allows the transmission of the PROFISAFE protocol.
+Instrument control cabinets
+They are designed to power electric motors. They contain:
+motor protections
+Contactors
+Smart relays (SIMOCODE)
+Soft starters
+Frequency converters
+In the dimensioning phase, we determine:
+Cable type and cross section
+Protective elements
+Contactors
+Type and power of soft starters
+Type and power of frequency converters
+Most often we design equipment from SIEMENS and EATON for motor protection and contactors and equipment from SIEMENS, ABB, DANFOSS for frequency converters. For soft commissioning we usually design equipment from SIEMENS and SOLCON (Israeli manufacturer).
+When determining the appropriate equipment, we take into account the motor power determined by the mechanical designer, the intermittency and the cable length.
+In cases where more safety is required, this is achieved by using safety PLC IO modules and the appropriate number of contactors. In the case where increased safety is required for drives with frequency inverters, we take advantage of the safety functions already built in. For example, Siemens frequency inverters allow tripping in safety category SIL2 and can be connected to a safety controller via a PROFINET network that allows the transmission of the PROFISAFE protocol.
+Network cabinets
+Network cabinets provide a safe and organized installation of networking equipment such as switches, patch panels and servers. They are designed to the required protection level (IP) and can be equipped with climate control if necessary. All components are marked with electrical designations as well as computer names, ensuring clear identification and reliable operation.
+Quick links
+About us
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Services
+Complete electrical package
+Electrical design
+Software development
+Contact
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Contact
+How to reach us
+© ELCON d.o.o. All rights reserved 2026
+Cookies
+Authors

@@ -1,0 +1,65 @@
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Home
+About us
+Services
+Complete electrical package
+Electrical design
+Software development
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Contact
+Software development
+Home
+›
+Services
+›
+Software development
+Complete electrical package
+Elelctrical design
+Software development
+ELCON develops software in the Siemens PCS7 and Siemens TIA portal environments.
+PCS7 applications
+Purpose and structure
+PCS7 is a Siemens DCS system. Unlike conventional PLC-SCADA systems, the work of the two is tightly integrated in DCS systems. Pre-prepared block libraries for sensors and actuators are used. These allow basic functionalities just by means of configuration. To facilitate the handling of a large number of process objects, the software allows the automatic generation of alarms, tags, archive tags and OS block icons.
+The structure of the PCS7 system is suitable for systems with a large number of IO points. It consists of industrial controllers called AS (Automation Station) and computers for control and management (these are called OS – Operating Station). The AS capture data from sensors (measurements of temperature levels, flow rates, etc.) and send commands to actuators (valves, motors, etc.). The OS are manned by operators, who monitor and intervene in the process through them.
+Use
+We produce PCS7 systems in a variety of configurations. These can be smaller systems with a single AS and OS station that is also an ES station. Or they can be larger systems in a Client-Server structure with redundancy at both AS and OS level. If required, we can also integrate security functions using F-Systems. In the chemical industry, we also use SIMATIC Batch, which enables the creation of flexible recipes for batch processes.
+The computers are usually located in a virtual environment. We usually use VMWARE ESXi.
+When programming, we tend to try to adhere as closely as possible to the rules of the PCS7 system. This means that we consistently use the original Siemens blocks and functionalities offered by the PCS7 system (e.g. chanel drivers and their automatic linking to module drivers, automatic generation of tags on the OS, automatic generation of block icons on images, etc.). In cases where the user’s requirements cannot be realised with the Siemens functionalities, we program our own blocks in Siemens SCL.
+We adapt the choice of library to the customer’s wishes. We usually use the following libraries: standard APL, Pulp&Paper APL and CEMAT.
+Batch
+In chemistry (and also in the food industry), processes are often batchwise. Batch flexibility can be achieved through recipes. These allow changes to be made to individual parameters (e.g. step times, material dosage quantities, etc.). The order remains fixed. In certain cases, it is also necessary to change the order of the individual steps. In such cases, it is necessary to use the “Batch” software. We use SIMATIC Batch.
+SIMATIC Batch allows you to compile recipes in any number of steps. In each step, a “phase” is started, which is then executed at the control (AS) level. The user can compose a recipe with sequential, parallel or alternative branches. The phases can be either continuous or finite. The phases themselves are prepared by a programmer at AS level, while the operator only builds the recipe, specifying the order and parameters of the individual steps.
+Digital Twin
+Applications in the process industry are difficult to test thoroughly on site. The customer wants to start production as soon as possible, so there is little time for testing. In such cases, we test our applications using digital twins. We use Siemens SIMIT to develop these. With the help of a digital twin, we test the application internally (FAT) and then with the customer.
+TIA portal applications
+Purpose and structure
+The TIA portal is a Siemens software environment primarily dedicated to machines. The control and monitoring system consists of a PLC (Siemens S7-1200 or S7-1500) and an HMI device. The HMI device can be a touch panel or a SCADA system.
+In contrast to processes, the emphasis in machines is often on speed. Thus, it is often necessary to perform positioning with servo drives or at least using high-speed counters. Safety is also an important factor for new machines. Safety functions may already be integrated in new controllers. For larger machines, this significantly reduces the amount of wiring (compared to conventional safety modules).
+The IO modules used in TIA portal projects do not have as many advanced features (such as diagnostics, redundancy, time synchronisation, etc.), but are therefore more cost-effective.
+In the process industries, a multitude of smaller devices is also common. It is often necessary to establish communication between them and the PCS7 system. If these devices have Siemens controllers, this is usually done by communication via S7-links, but if they are third-party controllers, PN/PN couplers are used.
+Quick links
+About us
+Markets
+Chemical
+Energy
+Papermills
+Refractory and Cement
+Services
+Complete electrical package
+Electrical design
+Software development
+Contact
+Ljubljanska cesta 80, 1230 Domžale, Slovenia
++386 1 724 00 40
+info@elcon.si
+Contact
+How to reach us
+© ELCON d.o.o. All rights reserved 2026
+Cookies
+Authors
